@@ -1,6 +1,6 @@
 # Bull's Eye
 
-Jogo criado para o estudo de SwiftUI.
+Jogo criado para o estudo de Swift utilizando SwiftUI.
 
 - Tela do jogo:
 
